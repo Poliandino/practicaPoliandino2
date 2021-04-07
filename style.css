@@ -17,7 +17,6 @@ body {
 
 .container{
     width: 100%;
-    /*padding-top: 180px;*/
     border-top: 100px solid #7F0F41;
 }
 
@@ -36,8 +35,6 @@ body {
     width: 33%;
     margin: 7px;
     border-radius: 10px 10px 0 0;
-    /*border-top-right-radius: 10px;
-    border-top-left-radius: 10px;*/
     box-sizing: border-box;
 }
 
